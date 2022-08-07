@@ -7,3 +7,4 @@ https://www.vanillajavascriptprojects.com/
 
 01. Color Flipper - https://javascriptcolorflipper.netlify.app/
 02. Simple Counter - https://javascriptsimplecounter.netlify.app/
+04. Navbar - https://javascriptnavbar.netlify.app/
