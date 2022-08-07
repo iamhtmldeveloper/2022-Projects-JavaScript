@@ -3,3 +3,7 @@ https://www.youtube.com/watch?v=3PHXvlpOkf4&t=430s
 https://github.com/john-smilga/javascript-basic-projects/tree/master
 
 https://www.vanillajavascriptprojects.com/
+
+
+01. Color Flipper - https://javascriptcolorflipper.netlify.app/
+02. Simple Counter - https://javascriptsimplecounter.netlify.app/
