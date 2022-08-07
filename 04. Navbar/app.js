@@ -2,7 +2,7 @@
 // contains - checks classList for specific class
 // add - add class
 // remove class
-// toggle - toggle class
+// toggle - toggle class 
 
 const navToggle = document.querySelector(".nav-toggle");
 const links = document.querySelector(".links");
